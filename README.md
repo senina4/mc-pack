@@ -1,6 +1,6 @@
 # senina4's mod pack + config pack
 
-Download mod + config at https://github.com/senina4/mc-pack/raw/main/mod_config.zip
+Download mod + config at https://github.com/senina4/mc-pack/raw/main/mod_config.zip (v1)
 
 Download MultiMC at https://multimc.org/#Download
 
